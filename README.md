@@ -53,9 +53,6 @@ lib/
 ## 📷 Screenshots
 ![Screenshot 2025-04-09 081630](https://github.com/user-attachments/assets/512961d1-8523-4452-ab6e-9da0aecb3c0f) ![Screenshot 2025-04-09 081617](https://github.com/user-attachments/assets/86159902-309e-4f07-a6b2-3d4a2e825416)
 
-
-
-
 ## 📦 Dependencies
 
 Some core dependencies used:
@@ -75,9 +72,6 @@ To run unit or widget tests:
 flutter test
 ```
 
-
-
 ---
 
 **Made with 💙 using Flutter**
-```
