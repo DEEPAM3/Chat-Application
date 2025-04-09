@@ -14,9 +14,12 @@ A Flutter-based real-time chat application designed for cross-platform messaging
 ## 📁 Project Structure
 
 lib/
-├── main.dart # Entry point of the application
+├── main.dart         # Entry point of the application
+
 ├── screens/          # UI Screens
+
 ├── widgets/          # Reusable widgets
+
 ├── services/         # Firebase services
 
 
