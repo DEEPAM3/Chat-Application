@@ -18,7 +18,7 @@ lib/
 ├── screens/          # UI Screens
 ├── widgets/          # Reusable widgets
 ├── services/         # Firebase services
-```
+
 
 ## 🛠️ Getting Started
 
