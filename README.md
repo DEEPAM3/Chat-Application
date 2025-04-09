@@ -51,8 +51,13 @@ lib/
    ```
 
 ## 📷 Screenshots
+![Screenshot 2025-04-09 081630](https://github.com/user-attachments/assets/bef10942-a23a-402f-9e10-d63a97efda54)
+![Screenshot 2025-04-09 081617](https://github.com/user-attachments/assets/35e08d22-b9e3-4ccd-a899-1d74f8fbf860)
+![Screenshot 2025-04-09 081430](https://github.com/user-attachments/assets/a92b77f8-0bcf-4875-bd45-2334866da75e)
+![Screenshot 2025-04-09 081520](https://github.com/user-attachments/assets/b6cb255b-c4ff-4a8d-9ab8-bcdab902d352)
+![Screenshot 2025-04-09 081712](https://github.com/user-attachments/assets/f492b91d-0fe3-46ae-9739-218b0204d81a)
 
-*(Add screenshots here if available)*
+
 
 ## 📦 Dependencies
 
