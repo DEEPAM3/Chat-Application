@@ -1,4 +1,4 @@
-```markdown
+
 # Chat_APP
 
 A Flutter-based real-time chat application designed for cross-platform messaging using Firebase as the backend.
@@ -13,7 +13,6 @@ A Flutter-based real-time chat application designed for cross-platform messaging
 
 ## 📁 Project Structure
 
-```
 lib/
 ├── main.dart         # Entry point of the application
 ├── screens/          # UI Screens
@@ -80,5 +79,3 @@ flutter test
 
 **Made with 💙 using Flutter**
 ```
-
----
