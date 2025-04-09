@@ -74,15 +74,7 @@ To run unit or widget tests:
 flutter test
 ```
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Contributions
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
@@ -90,5 +82,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ```
 
 ---
-
-Would you like me to include this `README.md` in the extracted project folder and re-zip it for download?
